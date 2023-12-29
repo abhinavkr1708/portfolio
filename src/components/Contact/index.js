@@ -169,6 +169,7 @@ const Contact = () => {
             placeholder="Your Email"
             name="user_email"
             type="email"
+            required="true"
           />
           <ContactInput placeholder="Your Name" name="from_name" />
           <ContactInput placeholder="Subject" name="subject" />
