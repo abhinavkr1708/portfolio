@@ -5,7 +5,7 @@ export const Bio = {
     "I am an enthusiastic and adaptable person, constantly seeking fresh challenges. Driven by a love for learning, I'm committed to delivering top-notch outcomes. My positive outlook and openness to growth equip me to make significant contributions and reach remarkable goals.",
   github: "https://github.com/abhinavkr1708",
   resume:
-    "https://drive.google.com/file/d/135gpSFw7D2dqqOOuG1_rDkqF1UFDK-m2/view?usp=sharing",
+    "https://drive.google.com/file/d/1AuvzCaPyoW551wL-AuH_UJyF8nBxYONX/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/abhinavkumar69/",
 
   insta: "https://www.instagram.com/abhimehraonline/",
