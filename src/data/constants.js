@@ -6,6 +6,7 @@ export const Bio = {
   github: "https://github.com/abhinavkr1708",
   resume:
     "https://drive.google.com/file/d/1AuvzCaPyoW551wL-AuH_UJyF8nBxYONX/view?usp=sharing",
+  
   linkedin: "https://www.linkedin.com/in/abhinavkumar69/",
 
   insta: "https://www.instagram.com/abhimehraonline/",
